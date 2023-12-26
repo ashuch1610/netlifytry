@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/netlifytry/static/css/main.f855e6bc.css",
+    "main.js": "/netlifytry/static/js/main.0d17a3a5.js",
+    "static/js/787.0514ee82.chunk.js": "/netlifytry/static/js/787.0514ee82.chunk.js",
+    "static/media/logo.svg": "/netlifytry/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/netlifytry/index.html",
+    "main.f855e6bc.css.map": "/netlifytry/static/css/main.f855e6bc.css.map",
+    "main.0d17a3a5.js.map": "/netlifytry/static/js/main.0d17a3a5.js.map",
+    "787.0514ee82.chunk.js.map": "/netlifytry/static/js/787.0514ee82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0d17a3a5.js"
+  ]
+}
